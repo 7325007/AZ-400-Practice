@@ -1,1 +1,2 @@
 "FileA" 
+Git Integration
